@@ -1,0 +1,5 @@
+{
+  "name": "Translate",
+  "description": "A high-fidelity clone of the Google Translate interface powered by Gemini 2.5 and 3 Pro for solving chemical problems with reasoning.",
+  "requestFramePermissions": []
+}
